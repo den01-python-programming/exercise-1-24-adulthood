@@ -1,15 +1,15 @@
-# Exercise 1.23 - Positivity
+# Exercise 1.24 - Adulthood
 
-Write a program that prompts the user for an integer and informs the user whether or not it is positive (greater than zero).
+Write a program that prompts the user for their age and tells them whether or not they are an adult (18 years old or older).
 
 ```plaintext
-Give a number:
-*5*
-The number is positive.
+How old are you?
+12
+You are not an adult
 ```
 
 ```plaintext
-Give a number:
-*-2*
-The number is not positive.
+How old are you?
+22
+You are an adult
 ```
